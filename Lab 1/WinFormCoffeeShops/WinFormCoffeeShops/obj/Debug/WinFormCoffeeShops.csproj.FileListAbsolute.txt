@@ -1,0 +1,11 @@
+D:\Cursuri facultate sem 4\Sisteme de gestiune a bazelor de date\Lab\Teme\Tema1\WinFormCoffeeShops\WinFormCoffeeShops\bin\Debug\WinFormCoffeeShops.exe.config
+D:\Cursuri facultate sem 4\Sisteme de gestiune a bazelor de date\Lab\Teme\Tema1\WinFormCoffeeShops\WinFormCoffeeShops\bin\Debug\WinFormCoffeeShops.exe
+D:\Cursuri facultate sem 4\Sisteme de gestiune a bazelor de date\Lab\Teme\Tema1\WinFormCoffeeShops\WinFormCoffeeShops\bin\Debug\WinFormCoffeeShops.pdb
+D:\Cursuri facultate sem 4\Sisteme de gestiune a bazelor de date\Lab\Teme\Tema1\WinFormCoffeeShops\WinFormCoffeeShops\obj\Debug\WinFormCoffeeShops.csproj.AssemblyReference.cache
+D:\Cursuri facultate sem 4\Sisteme de gestiune a bazelor de date\Lab\Teme\Tema1\WinFormCoffeeShops\WinFormCoffeeShops\obj\Debug\WinFormCoffeeShops.csproj.SuggestedBindingRedirects.cache
+D:\Cursuri facultate sem 4\Sisteme de gestiune a bazelor de date\Lab\Teme\Tema1\WinFormCoffeeShops\WinFormCoffeeShops\obj\Debug\WinFormCoffeeShops.Properties.Resources.resources
+D:\Cursuri facultate sem 4\Sisteme de gestiune a bazelor de date\Lab\Teme\Tema1\WinFormCoffeeShops\WinFormCoffeeShops\obj\Debug\WinFormCoffeeShops.csproj.GenerateResource.cache
+D:\Cursuri facultate sem 4\Sisteme de gestiune a bazelor de date\Lab\Teme\Tema1\WinFormCoffeeShops\WinFormCoffeeShops\obj\Debug\WinFormCoffeeShops.csproj.CoreCompileInputs.cache
+D:\Cursuri facultate sem 4\Sisteme de gestiune a bazelor de date\Lab\Teme\Tema1\WinFormCoffeeShops\WinFormCoffeeShops\obj\Debug\WinFormCoffeeShops.exe
+D:\Cursuri facultate sem 4\Sisteme de gestiune a bazelor de date\Lab\Teme\Tema1\WinFormCoffeeShops\WinFormCoffeeShops\obj\Debug\WinFormCoffeeShops.pdb
+D:\Cursuri facultate sem 4\Sisteme de gestiune a bazelor de date\Lab\Teme\Tema1\WinFormCoffeeShops\WinFormCoffeeShops\obj\Debug\WinFormCoffeeShops.Main.resources

@@ -1,0 +1,11 @@
+D:\Cursuri facultate sem 4\Sisteme de gestiune a bazelor de date\Lab\Teme\Tema4\Deadlock\Deadlock\bin\Debug\Deadlock.exe.config
+D:\Cursuri facultate sem 4\Sisteme de gestiune a bazelor de date\Lab\Teme\Tema4\Deadlock\Deadlock\bin\Debug\Deadlock.exe
+D:\Cursuri facultate sem 4\Sisteme de gestiune a bazelor de date\Lab\Teme\Tema4\Deadlock\Deadlock\bin\Debug\Deadlock.pdb
+D:\Cursuri facultate sem 4\Sisteme de gestiune a bazelor de date\Lab\Teme\Tema4\Deadlock\Deadlock\obj\Debug\Deadlock.csproj.AssemblyReference.cache
+D:\Cursuri facultate sem 4\Sisteme de gestiune a bazelor de date\Lab\Teme\Tema4\Deadlock\Deadlock\obj\Debug\Deadlock.csproj.SuggestedBindingRedirects.cache
+D:\Cursuri facultate sem 4\Sisteme de gestiune a bazelor de date\Lab\Teme\Tema4\Deadlock\Deadlock\obj\Debug\Deadlock.Form1.resources
+D:\Cursuri facultate sem 4\Sisteme de gestiune a bazelor de date\Lab\Teme\Tema4\Deadlock\Deadlock\obj\Debug\Deadlock.Properties.Resources.resources
+D:\Cursuri facultate sem 4\Sisteme de gestiune a bazelor de date\Lab\Teme\Tema4\Deadlock\Deadlock\obj\Debug\Deadlock.csproj.GenerateResource.cache
+D:\Cursuri facultate sem 4\Sisteme de gestiune a bazelor de date\Lab\Teme\Tema4\Deadlock\Deadlock\obj\Debug\Deadlock.csproj.CoreCompileInputs.cache
+D:\Cursuri facultate sem 4\Sisteme de gestiune a bazelor de date\Lab\Teme\Tema4\Deadlock\Deadlock\obj\Debug\Deadlock.exe
+D:\Cursuri facultate sem 4\Sisteme de gestiune a bazelor de date\Lab\Teme\Tema4\Deadlock\Deadlock\obj\Debug\Deadlock.pdb
